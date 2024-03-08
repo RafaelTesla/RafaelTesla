@@ -13,7 +13,6 @@
 <a href="https://pt.wikipedia.org/wiki/React_(JavaScript)"> <img alt="ReactJs" src="https://img.shields.io/badge/ReactJs-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/></a>
     <hr>
 <h3>Redes Sociais :</h3>    
- <hr>
 
 <br>
 <a href="https://www.instagram.com/r_viictor08/"> <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
