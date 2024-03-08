@@ -10,7 +10,6 @@
 </a>
 <a href="https://pt.wikipedia.org/wiki/CSS3"> <img alt="Css3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/></a>
 <a href="https://pt.wikipedia.org/wiki/JavaScript"> <img alt="Javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a>
-<a href="https://pt.wikipedia.org/wiki/React_(JavaScript)"> <img alt="ReactJs" src="https://img.shields.io/badge/ReactJs-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/></a>
     <hr>
 <h3>Redes Sociais :</h3>    
 
