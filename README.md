@@ -14,7 +14,7 @@
 <h3>Redes Sociais :</h3>    
 
 <br>
-<a href="https://www.instagram.com/r_viictor08/"> <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://www.instagram.com/*/"> <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 <br>    
     
 # Oi, eu sou Rafael! 
@@ -24,7 +24,7 @@
 <a href="https://twitter.com/Anitta?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"> <img alt="twiter" src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link"/>
 
 ### Sobre mim
-Sou desenvolvedor {backend, frontend e mobile} 💫
+Estou cursando ADS 👨🏼‍🏫
 
-- [Cursos] 👨🏼‍🏫 - São cursos técnicos em diversas tecnologias, como JavaScript, PHP, Git e muito mais...
+- Estou aprendendo JavaScript, HTML, Git e muito mais...
 - 💻 - Utilizando a internet e aprendendo com isso.
