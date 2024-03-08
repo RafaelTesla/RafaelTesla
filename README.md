@@ -25,6 +25,5 @@
 
 ### Sobre mim
 Estou cursando ADS 👨🏼‍🏫
-
 - Estou aprendendo JavaScript, HTML, Git e muito mais...
 - 💻 - Utilizando a internet e aprendendo com isso.
